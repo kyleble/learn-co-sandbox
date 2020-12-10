@@ -1,4 +1,4 @@
-Hi! 👋
+wHi! 👋
 
 You've opened the IDE Sandbox. 🎉
 
